@@ -1,1 +1,2 @@
-# BCG_virtual-internship-Forage
+# Forage Projects
+## BCG - Customer Churn
