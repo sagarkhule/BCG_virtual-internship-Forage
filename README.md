@@ -1,5 +1,5 @@
 # BCG_virtual-internship-Forage
-BCG - Customer Churn
+BCG - Customer Churn.
 This case study was an excellent opportunity to learn the ins and outs of the strategy consulting process, from conducting market research to delivering recommendations to clients.
 
 The case study was structured around a hypothetical client, a local telecom operator that was struggling with declining profits and increased competition. I was tasked with developing a strategy to help the company regain its competitive edge, increase profitability and learn while doing so!
